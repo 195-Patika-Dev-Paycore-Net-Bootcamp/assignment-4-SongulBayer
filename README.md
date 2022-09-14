@@ -1,5 +1,5 @@
 # Assignment-4 : K-Means Algorithm
--- I couldn't finish the assignment :'( , I prepared this repository as a document
+-- I couldn't finish the assignment :'( , I prepared this repository as a document.
 ## 1- For now there are only messy 
 ![1](https://user-images.githubusercontent.com/63016233/189919467-79a2f413-a2dc-44a7-91c2-0c213eb6e583.jpg)
 ## 2-We form random groups
